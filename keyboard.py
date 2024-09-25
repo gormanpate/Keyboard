@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # %%
+# Geneteic programing finding the base keyboard for the data set
 import random
 from typing import TypedDict
 import math
